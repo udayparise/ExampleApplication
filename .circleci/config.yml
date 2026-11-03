@@ -1,4 +1,3 @@
-```yaml
 version: 2.1
 
 jobs:
@@ -37,4 +36,3 @@ workflows:
             branches:
               only:
                 - main
-```
